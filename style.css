@@ -139,7 +139,7 @@ div#item-section {
     height: 312px;
     left: 140px;
     background: #161616;
-    margin-top: 186px;
+    margin-top: 186px !important;
     border-radius: 10px;
 }
 
@@ -604,14 +604,7 @@ div#live-time {
     margin-top: 50px;
   }
 
-  div#item-section {
-    flex-direction: column;
-    display: flex;
-    align-items: center;
-    height: 185px;
-    width: 210px;
-    margin-left: -74px;
-  }
+  
 
   .items {
     flex-direction: column;
