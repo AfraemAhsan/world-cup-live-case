@@ -134,13 +134,13 @@ button#watch-button {
   margin-left: 10px;
 }
 div#item-section {
-  position: absolute;
-  width: 312px;
-  height: 312px;
-  left: 140px;
-  background: #161616;
-  margin-top: 371px;
-  border-radius: 10px;
+    position: absolute;
+    width: 312px;
+    height: 312px;
+    left: 140px;
+    background: #161616;
+    margin-top: 186px;
+    border-radius: 10px;
 }
 
 .items {
