@@ -240,15 +240,13 @@
     margin-top: 115px;
   }
 
-  div#footer-section {
-    margin-top: 2800px;
-}
+  
   div#footer-section {
     display: flex;
     flex-direction: column;
     width: 100%;
     padding-bottom: 16px;
-    margin-top: 1650px;
+    margin-top: 1650px; margin-top: 2800px !important;
   }
 
   #footer-section h1 {
