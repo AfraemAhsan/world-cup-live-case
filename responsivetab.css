@@ -241,6 +241,9 @@
   }
 
   div#footer-section {
+    margin-top: 2800px;
+}
+  div#footer-section {
     display: flex;
     flex-direction: column;
     width: 100%;
